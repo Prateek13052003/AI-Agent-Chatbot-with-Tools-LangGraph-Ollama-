@@ -1,7 +1,7 @@
 
 ---
 
-# 🤖 AI Agent Chatbot (LangGraph + Ollama)
+# 🤖 AI Agent Chatbot (Langraph And Ollama)
 
 An intelligent AI chatbot built using **LangGraph** and **Ollama (Llama 3.1)** that can **think, use tools, remember conversations, and interact in real-time**.
 
